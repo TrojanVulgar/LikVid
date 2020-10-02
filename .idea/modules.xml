@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1423983635/ext_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1423983635/ext_storage.iml" group="android/ext_storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1727017930/firebase_admob.iml" filepath="$PROJECT_DIR$/.idea/modules/-1727017930/firebase_admob.iml" group="android/firebase_admob" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1284654382/firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-1284654382/firebase_core.iml" group="android/firebase_core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-697102638/io.flutter.plugins.sharedpreferences-shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-697102638/io.flutter.plugins.sharedpreferences-shared_preferences.iml" group="android/shared_preferences" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/23933991/io.flutter.plugins.videoplayer-video_player.iml" filepath="$PROJECT_DIR$/.idea/modules/23933991/io.flutter.plugins.videoplayer-video_player.iml" group="android/video_player" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1688210358/package_info.iml" filepath="$PROJECT_DIR$/.idea/modules/-1688210358/package_info.iml" group="android/package_info" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1136561406/permission_handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1136561406/permission_handler.iml" group="android/permission_handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1905936959/share_extend.iml" filepath="$PROJECT_DIR$/.idea/modules/-1905936959/share_extend.iml" group="android/share_extend" />
+    </modules>
+  </component>
+</project>
